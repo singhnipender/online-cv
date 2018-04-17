@@ -1,7 +1,7 @@
 # Site Settings
-title: My Resume
+title: Nipender Singh
 url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/resume' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
@@ -14,28 +14,29 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Nipender Sigh
+tagline: Digital Marketing Expert.
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Working gives me a lot of skills and experience that 
+I believe make me best suited for the job position that is
+being offered with a position of Graphic Designer. I have
+been working in a design industry for 5 years, with my most recent experience being a
+UX  Designer at Great Designs. I possess valuable skills such as good communication and 
+high creativity that I believe make me best suited for the position of UX Designer in your company'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: singhnipender@gmail.com
+phone: +91 9782715171
+#website: blog.webjeda.com #do not add http://
+linkedin: nipender-singh
+#github: sharu725
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-#education_in_main: True
+education_in_main: True
 
-# Tracker
-analytics: UA-83979019-1
+# Tracker analytics: UA-83979019-1
 
 # Build settings
 encoding: "utf-8"
